@@ -58,8 +58,8 @@ cmd> quit
 
 Send commands in the channel, for example:
 
-12345678 abcd1234 status
-12345678 abcd1234 attack example.com:80
+- 12345678 abcd1234 status
+- 12345678 abcd1234 attack example.com:80
 
 Command Authentication
 All commands must be signed with a nonce + secret:
